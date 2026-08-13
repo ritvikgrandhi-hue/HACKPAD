@@ -2664,7 +2664,7 @@
 			(uuid "c7b5dfba-d1aa-441c-a9f3-663ad48201ed")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.75)
 					(thickness 0.15)
 				)
 			)
@@ -2675,7 +2675,7 @@
 			(uuid "7a5fabb0-7543-464d-8b77-18ad16a33d86")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.75)
 					(thickness 0.15)
 				)
 			)
@@ -2697,7 +2697,7 @@
 			(uuid "db58ba30-37bb-45d7-954f-796f51a97480")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.75)
 					(thickness 0.15)
 				)
 			)
@@ -2708,7 +2708,7 @@
 			(uuid "c89ab476-60c6-4763-8194-f26866549a59")
 			(effects
 				(font
-					(size 0.75 0.75)
+					(size 0.8 0.75)
 					(thickness 0.15)
 				)
 			)
@@ -10031,14 +10031,6 @@
 		(layer "F.Cu")
 		(net "/COL3")
 		(uuid "64a4defc-8495-40bf-a8c8-265728eec663")
-	)
-	(segment
-		(start 130 92.92)
-		(end 130.08 92.92)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "/COL3")
-		(uuid "6a6c2e94-8fbc-402d-beb0-571c49e2e06f")
 	)
 	(segment
 		(start 128.29995 57.265736)
